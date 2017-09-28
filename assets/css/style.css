@@ -23,7 +23,6 @@
   	/*background-image: url(../images/denim.jpg);*/
   	background-color: rgb(249, 87, 89);
   	*/ border: 10px solid #fe5655;
-  	border-image: url(../images/denim.jpg) 30 round;
   	/*border-radius: 30px;*/
   	font-family: 'Neuton', serif;
     text-shadow: 3px 3px #acbfc4;
